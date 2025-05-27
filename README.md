@@ -42,19 +42,9 @@ Add a requirements.txt or a setup instruction with the following line to ensure 
 
 
 **Result**
-**(1)**
 
-![image](https://github.com/user-attachments/assets/6bbce676-039c-4b55-84d9-0c6678145f91)
+![image](https://github.com/user-attachments/assets/bb010ff3-d20d-4961-8248-3a81a36c0ac9)
 
-**(2)**
-
+![Uploading image.png…]()
 
 
-![image](https://github.com/user-attachments/assets/d479e12b-e48d-49ac-8be5-fb18917b81e5)
-
-**(3)**
-
-![image](https://github.com/user-attachments/assets/74c203de-89c6-4821-8e03-120bea3d57c5)
-
-
-![image](https://github.com/user-attachments/assets/f990d9b0-5b93-4811-be0a-928cd7f56ca0)
