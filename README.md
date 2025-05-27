@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7619fde3-a6b2-4f73-a031-2379fadf6ea9)# Jarvis-Ai-Assistant
+# Jarvis-Ai-Assistant
 jarvis ai personal assistant
 
 
@@ -58,10 +58,3 @@ Add a requirements.txt or a setup instruction with the following line to ensure 
 
 
 ![image](https://github.com/user-attachments/assets/f990d9b0-5b93-4811-be0a-928cd7f56ca0)
-
-
-
-
-
-
-
