@@ -45,6 +45,6 @@ Add a requirements.txt or a setup instruction with the following line to ensure 
 
 ![image](https://github.com/user-attachments/assets/bb010ff3-d20d-4961-8248-3a81a36c0ac9)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/3ee581e1-19f2-41bf-8291-51a9e2d30103)
 
 
